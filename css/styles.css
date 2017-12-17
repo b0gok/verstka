@@ -1,11 +1,8 @@
-* {
-  font-size: 22px;
-  line-height: 34px;
-}
-
 p {
   background-color: #fd739c;
   color: #fff;
+  font-size: 22px;
+  line-height: 34px;
 }
 
 h1,
